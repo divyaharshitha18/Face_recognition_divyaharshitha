@@ -1,2 +1,2 @@
 # Face_recognition_divyaharshitha
-mini project 
+mini project on Face recognition 
