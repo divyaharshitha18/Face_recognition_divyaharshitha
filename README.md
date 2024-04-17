@@ -14,8 +14,3 @@ This repository contains a Python application for face recognition using the `fa
 - Python 3.x
 - face_recognition library
 - PIL library
-
-## Installation
-
-   pip install -r requirements.txt
-
